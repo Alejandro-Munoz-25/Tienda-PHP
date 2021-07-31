@@ -1,2 +1,11 @@
 # Tienda-PHP
-Tienda de Ropa creada en PHP
+Tienda de Ropa creada en PHP con el patrón MVC
+Capturas del usuario
+<img src="images/Tienda PHP 1.png"/>
+<img src="images/Tienda PHP 2.png"/>
+<img src="images/Tienda PHP 3.png"/>
+<img src="images/Tienda PHP 4.png"/>
+<img src="images/Tienda PHP 5.png"/>
+<img src="images/Tienda PHP 6.png"/>
+<img src="images/Tienda PHP 7.png"/>
+<img src="images/Tienda PHP 8.png"/>
