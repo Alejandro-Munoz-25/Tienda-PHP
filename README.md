@@ -12,11 +12,11 @@ Tienda de Ropa creada en PHP con el patrón MVC
 <img src="images/Tienda PHP 4.png"/>
 </br>
 <img src="images/Tienda PHP 5.png"/>
-</br></br>
-###  Vista Administrador
+
+## Capturas Administrador
 </br></br>
 <img src="images/Tienda PHP 6.png"/>
-</br>
+</br></br>
 <img src="images/Tienda PHP 7.png"/>
 </br>
 <img src="images/Tienda PHP 8.png"/>
