@@ -32,7 +32,6 @@
         <p>
             Productos:
         </p>
-        </div>
         <table>
             <thead>
                 <tr>
@@ -59,4 +58,6 @@
                 <?php endwhile; ?>
             </tbody>
         </table>
+        </div>
+
     <?php endif; ?>

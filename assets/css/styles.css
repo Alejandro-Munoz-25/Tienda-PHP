@@ -528,7 +528,7 @@ tbody tr:nth-child(odd) {
   }
   #content {
     flex-wrap: wrap;
-    /* flex-direction: row; */
+    flex-direction: row;
   }
   #logo a {
     margin-left: 10px;
